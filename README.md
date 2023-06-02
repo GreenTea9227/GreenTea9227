@@ -3,7 +3,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=GreenTea!&color=auto&fontColor=#00308F)
   
   </div>
-  
+  <div align="center">
+     <h1 style="margin:auto; text-align:center; text-color:blue;">현재 진행형 개발자!!!</h1>
+  </div>
   <br>
   
 <div align="center">
